@@ -1,0 +1,645 @@
+2020-06-21T03:24:31.381Z  	Mqtt app connected
+2020-06-21T03:24:31.396Z  	DB connected
+2020-06-21T03:24:31.682Z  	Mqtt broker connected
+2020-06-21T03:25:21.336Z  	Listening for messages
+2020-06-21T03:26:11.336Z  	Listening for messages
+2020-06-21T03:27:01.337Z  	Listening for messages
+2020-06-21T03:27:51.337Z  	Listening for messages
+2020-06-22T01:20:36.900Z  	Mqtt app connected
+2020-06-22T01:20:36.918Z  	DB connected
+2020-06-22T01:20:37.714Z  	Mqtt broker connected
+2020-06-22T01:21:26.848Z  	Listening for messages
+2020-06-22T01:22:16.848Z  	Listening for messages
+2020-06-22T01:23:06.848Z  	Listening for messages
+2020-06-22T01:23:56.847Z  	Listening for messages
+2020-06-22T01:24:46.849Z  	Listening for messages
+2020-06-22T01:25:36.850Z  	Listening for messages
+2020-06-22T01:26:26.850Z  	Listening for messages
+2020-06-22T01:27:16.850Z  	Listening for messages
+2020-06-22T01:28:06.850Z  	Listening for messages
+2020-06-22T01:28:56.852Z  	Listening for messages
+2020-06-22T01:29:46.852Z  	Listening for messages
+2020-06-22T01:30:36.853Z  	Listening for messages
+2020-06-22T01:31:26.851Z  	Listening for messages
+2020-06-22T01:32:16.852Z  	Listening for messages
+2020-06-22T01:33:06.853Z  	Listening for messages
+2020-06-22T01:33:56.854Z  	Listening for messages
+2020-06-22T01:34:46.856Z  	Listening for messages
+2020-06-22T01:35:36.856Z  	Listening for messages
+2020-06-22T01:36:26.855Z  	Listening for messages
+2020-06-22T01:37:16.856Z  	Listening for messages
+2020-06-22T01:38:06.855Z  	Listening for messages
+2020-06-22T01:38:56.857Z  	Listening for messages
+2020-06-22T01:39:46.856Z  	Listening for messages
+2020-06-22T01:40:36.857Z  	Listening for messages
+2020-06-22T01:41:26.856Z  	Listening for messages
+2020-06-22T01:42:16.858Z  	Listening for messages
+2020-06-22T01:43:06.858Z  	Listening for messages
+2020-06-22T01:43:56.858Z  	Listening for messages
+2020-06-22T01:44:46.858Z  	Listening for messages
+2020-06-22T01:45:36.858Z  	Listening for messages
+2020-06-22T01:46:26.858Z  	Listening for messages
+2020-06-22T01:47:16.859Z  	Listening for messages
+2020-06-22T01:48:06.860Z  	Listening for messages
+2020-06-22T01:48:56.861Z  	Listening for messages
+2020-06-22T01:49:46.861Z  	Listening for messages
+2020-06-22T01:50:36.861Z  	Listening for messages
+2020-06-22T01:51:26.862Z  	Listening for messages
+2020-06-22T01:52:16.861Z  	Listening for messages
+2020-06-22T01:53:06.863Z  	Listening for messages
+2020-06-22T01:53:56.864Z  	Listening for messages
+2020-06-22T01:54:46.864Z  	Listening for messages
+2020-06-22T01:55:36.864Z  	Listening for messages
+2020-06-22T01:56:26.864Z  	Listening for messages
+2020-06-22T01:57:16.864Z  	Listening for messages
+2020-06-22T01:58:06.865Z  	Listening for messages
+2020-06-22T01:58:56.866Z  	Listening for messages
+2020-06-22T01:59:46.865Z  	Listening for messages
+2020-06-22T02:00:36.865Z  	Listening for messages
+2020-06-22T02:01:26.866Z  	Listening for messages
+2020-06-22T02:02:16.866Z  	Listening for messages
+2020-06-22T02:03:06.866Z  	Listening for messages
+2020-06-22T02:03:56.866Z  	Listening for messages
+2020-06-22T02:04:46.865Z  	Listening for messages
+2020-06-22T02:05:36.865Z  	Listening for messages
+2020-06-22T02:06:26.865Z  	Listening for messages
+2020-06-22T02:07:16.866Z  	Listening for messages
+2020-06-22T02:08:06.867Z  	Listening for messages
+2020-06-22T02:08:56.868Z  	Listening for messages
+2020-06-22T02:09:46.871Z  	Listening for messages
+2020-06-22T02:10:36.872Z  	Listening for messages
+2020-06-22T02:11:26.871Z  	Listening for messages
+2020-06-22T02:12:16.872Z  	Listening for messages
+2020-06-22T02:13:06.873Z  	Listening for messages
+2020-06-22T02:13:56.874Z  	Listening for messages
+2020-06-22T02:14:46.873Z  	Listening for messages
+2020-06-22T02:15:36.874Z  	Listening for messages
+2020-06-22T02:16:26.875Z  	Listening for messages
+2020-06-22T02:17:16.876Z  	Listening for messages
+2020-06-22T02:18:06.876Z  	Listening for messages
+2020-06-22T02:18:56.877Z  	Listening for messages
+2020-06-22T02:19:46.877Z  	Listening for messages
+2020-06-22T02:20:36.877Z  	Listening for messages
+2020-06-22T02:21:26.879Z  	Listening for messages
+2020-06-22T02:22:16.879Z  	Listening for messages
+2020-06-22T02:23:06.879Z  	Listening for messages
+2020-06-22T02:23:56.879Z  	Listening for messages
+2020-06-22T02:24:46.880Z  	Listening for messages
+2020-06-22T02:25:36.880Z  	Listening for messages
+2020-06-22T02:26:26.880Z  	Listening for messages
+2020-06-22T02:27:16.881Z  	Listening for messages
+2020-06-22T02:28:06.881Z  	Listening for messages
+2020-06-22T02:28:56.880Z  	Listening for messages
+2020-06-22T02:29:46.880Z  	Listening for messages
+2020-06-22T02:30:36.880Z  	Listening for messages
+2020-06-22T02:31:26.880Z  	Listening for messages
+2020-06-22T02:32:16.881Z  	Listening for messages
+2020-06-22T02:33:06.882Z  	Listening for messages
+2020-06-22T02:33:56.883Z  	Listening for messages
+2020-06-22T02:34:46.884Z  	Listening for messages
+2020-06-22T02:35:36.885Z  	Listening for messages
+2020-06-22T02:36:26.887Z  	Listening for messages
+2020-06-22T02:37:16.886Z  	Listening for messages
+2020-06-22T02:38:06.887Z  	Listening for messages
+2020-06-22T02:38:56.887Z  	Listening for messages
+2020-06-22T02:39:46.889Z  	Listening for messages
+2020-06-22T02:40:36.889Z  	Listening for messages
+2020-06-22T02:41:13.922Z  	Mqtt app connected
+2020-06-22T02:41:13.937Z  	DB connected
+2020-06-22T02:41:14.222Z  	Mqtt broker connected
+2020-06-22T11:41:51.061Z  	Mqtt broker connected
+2020-06-22T11:42:06.276Z  	Database has been connected
+2020-06-22T11:42:06.279Z  	server listening 
+2020-06-22T11:42:39.929Z  	Database has been connected
+2020-06-22T11:42:39.933Z  	server listening 
+2020-06-22T11:42:40.228Z  	Mqtt broker connected
+2020-06-22T11:43:14.331Z  	Database has been connected
+2020-06-22T11:43:14.334Z  	server listening 
+2020-06-22T11:43:14.630Z  	Mqtt broker connected
+2020-06-23T04:22:12.833Z  	Database has been connected
+2020-06-23T04:22:12.837Z  	server listening 
+2020-06-23T04:22:13.269Z  	Mqtt broker connected
+2020-06-23T04:22:49.348Z  	Database has been connected
+2020-06-23T04:22:49.351Z  	server listening 
+2020-06-23T04:22:50.204Z  	Mqtt broker connected
+2020-06-23T04:23:39.296Z  	Listening for messages
+2020-06-23T04:27:35.734Z  	Database has been connected
+2020-06-23T04:27:36.034Z  	Mqtt broker connected
+2020-06-23T04:28:25.681Z  	Listening for messages
+2020-06-23T04:31:47.625Z  	Database has been connected
+2020-06-23T04:31:47.908Z  	Mqtt broker connected
+2020-06-23T04:32:24.096Z  	Database has been connected
+2020-06-23T04:32:24.402Z  	Mqtt broker connected
+2020-06-23T04:33:14.045Z  	Listening for messages
+2020-06-23T04:34:04.044Z  	Listening for messages
+2020-06-23T04:36:43.578Z  	Database has been connected
+2020-06-23T04:36:43.885Z  	Mqtt broker connected
+2020-06-23T04:43:24.953Z  	Database has been connected
+2020-06-23T04:43:25.227Z  	Mqtt broker connected
+2020-06-23T04:51:17.345Z  	Database has been connected
+2020-06-23T04:51:17.765Z  	Mqtt broker connected
+2020-06-23T04:53:41.746Z  	Database has been connected
+2020-06-23T04:53:42.024Z  	Mqtt broker connected
+2020-06-23T04:56:41.244Z  	Database has been connected
+2020-06-23T04:56:41.527Z  	Mqtt broker connected
+2020-06-23T06:49:31.793Z  	Database has been connected
+2020-06-23T06:49:32.556Z  	Mqtt broker connected
+2020-06-23T06:50:21.735Z  	Listening for messages
+2020-06-23T06:50:51.379Z  	Database has been connected
+2020-06-23T06:50:51.657Z  	Mqtt broker connected
+2020-06-23T06:51:00.861Z  	Database has been connected
+2020-06-23T06:51:01.119Z  	Mqtt broker connected
+2020-06-23T06:51:12.216Z  	Database has been connected
+2020-06-23T06:51:12.470Z  	Mqtt broker connected
+2020-06-23T06:51:23.249Z  	Database has been connected
+2020-06-23T06:51:23.528Z  	Mqtt broker connected
+2020-06-23T06:52:13.191Z  	Listening for messages
+2020-06-23T06:53:03.190Z  	Listening for messages
+2020-06-23T06:53:53.191Z  	Listening for messages
+2020-06-23T06:54:43.191Z  	Listening for messages
+2020-06-23T06:55:33.191Z  	Listening for messages
+2020-06-23T06:55:48.484Z  	Database has been connected
+2020-06-23T06:55:48.769Z  	Mqtt broker connected
+2020-06-23T06:55:49.917Z  	Database has been connected
+2020-06-23T06:55:50.202Z  	Mqtt broker connected
+2020-06-23T06:55:53.033Z  	Database has been connected
+2020-06-23T06:55:53.304Z  	Mqtt broker connected
+2020-06-23T06:55:56.067Z  	Database has been connected
+2020-06-23T06:55:56.342Z  	Mqtt broker connected
+2020-06-23T06:55:57.869Z  	Database has been connected
+2020-06-23T06:55:58.139Z  	Mqtt broker connected
+2020-06-23T06:56:15.681Z  	Database has been connected
+2020-06-23T06:56:15.971Z  	Mqtt broker connected
+2020-06-23T06:57:05.623Z  	Listening for messages
+2020-06-23T06:57:31.877Z  	Database has been connected
+2020-06-23T06:57:32.144Z  	Mqtt broker connected
+2020-06-23T06:58:08.661Z  	Database has been connected
+2020-06-23T06:58:08.941Z  	Mqtt broker connected
+2020-06-23T06:58:58.602Z  	Listening for messages
+2020-06-23T06:59:48.602Z  	Listening for messages
+2020-06-23T07:00:38.602Z  	Listening for messages
+2020-06-23T07:01:28.602Z  	Listening for messages
+2020-06-23T07:02:18.602Z  	Listening for messages
+2020-06-23T07:03:08.603Z  	Listening for messages
+2020-06-23T07:03:58.602Z  	Listening for messages
+2020-06-23T07:04:48.603Z  	Listening for messages
+2020-06-23T07:05:38.603Z  	Listening for messages
+2020-06-23T07:06:28.604Z  	Listening for messages
+2020-06-23T07:07:18.604Z  	Listening for messages
+2020-06-23T07:07:45.959Z  	Database has been connected
+2020-06-23T07:07:46.245Z  	Mqtt broker connected
+2020-06-23T07:07:52.577Z  	Database has been connected
+2020-06-23T07:07:52.845Z  	Mqtt broker connected
+2020-06-23T07:07:54.212Z  	Database has been connected
+2020-06-23T07:07:54.493Z  	Mqtt broker connected
+2020-06-23T07:07:55.363Z  	Database has been connected
+2020-06-23T07:07:55.679Z  	Mqtt broker connected
+2020-06-23T07:07:58.699Z  	Database has been connected
+2020-06-23T07:07:58.976Z  	Mqtt broker connected
+2020-06-23T07:08:04.308Z  	Database has been connected
+2020-06-23T07:08:04.588Z  	Mqtt broker connected
+2020-06-23T07:08:05.882Z  	Database has been connected
+2020-06-23T07:08:06.170Z  	Mqtt broker connected
+2020-06-23T07:08:55.825Z  	Listening for messages
+2020-06-23T07:09:45.825Z  	Listening for messages
+2020-06-23T07:10:35.826Z  	Listening for messages
+2020-06-23T07:11:25.826Z  	Listening for messages
+2020-06-23T07:12:15.826Z  	Listening for messages
+2020-06-23T07:13:05.827Z  	Listening for messages
+2020-06-23T07:13:55.826Z  	Listening for messages
+2020-06-23T07:13:58.759Z  	Database has been connected
+2020-06-23T07:13:59.050Z  	Mqtt broker connected
+2020-06-23T07:14:01.230Z  	Database has been connected
+2020-06-23T07:14:01.522Z  	Mqtt broker connected
+2020-06-23T07:14:03.775Z  	Database has been connected
+2020-06-23T07:14:04.077Z  	Mqtt broker connected
+2020-06-23T07:14:51.836Z  	SIGINT signal received.
+2020-06-23T07:15:33.055Z  	Database has been connected
+2020-06-23T07:15:33.326Z  	Mqtt broker connected
+2020-06-23T07:15:50.466Z  	SIGINT signal received.
+2020-06-23T07:15:50.472Z  	Mongoose connection disconnected
+2020-06-23T07:15:54.783Z  	Database has been connected
+2020-06-23T07:15:54.789Z  	Listening for messages
+2020-06-23T07:15:54.789Z  	Data 1
+2020-06-23T07:15:55.052Z  	Mqtt broker connected
+2020-06-23T07:16:44.725Z  	Listening for messages
+2020-06-23T07:16:47.657Z  	SIGINT signal received.
+2020-06-23T07:16:47.663Z  	Mongoose connection disconnected
+2020-06-23T07:16:51.634Z  	Database has been connected
+2020-06-23T07:16:51.641Z  	Listening for messages
+2020-06-23T07:16:51.641Z  	Data 1
+2020-06-23T07:16:51.663Z  	Data Saved on retry 1
+2020-06-23T07:16:51.663Z  	Data 2
+2020-06-23T07:16:51.665Z  	Data Saved on retry 2
+2020-06-23T07:16:51.665Z  	Data 4
+2020-06-23T07:16:51.667Z  	Data Saved on retry 4
+2020-06-23T07:16:51.914Z  	Mqtt broker connected
+2020-06-23T07:17:28.936Z  	SIGINT signal received.
+2020-06-23T07:17:32.611Z  	Database has been connected
+2020-06-23T07:17:32.619Z  	Listening for messages
+2020-06-23T07:17:32.620Z  	Data 1
+2020-06-23T07:17:32.633Z  	Listening for messages
+2020-06-23T07:17:32.642Z  	Data Saved on retry 1
+2020-06-23T07:17:32.643Z  	Data 2
+2020-06-23T07:17:32.645Z  	Data Saved on retry 2
+2020-06-23T07:17:32.645Z  	Data 4
+2020-06-23T07:17:32.647Z  	Data Saved on retry 4
+2020-06-23T07:17:32.884Z  	Mqtt broker connected
+2020-06-23T07:18:22.551Z  	Listening for messages
+2020-06-23T07:19:12.551Z  	Listening for messages
+2020-06-23T07:20:02.552Z  	Listening for messages
+2020-06-23T07:20:05.177Z  	SIGINT signal received.
+2020-06-23T07:20:08.836Z  	Database has been connected
+2020-06-23T07:20:08.842Z  	Listening for messages
+2020-06-23T07:20:08.842Z  	Data 1
+2020-06-23T07:20:08.856Z  	Listening for messages
+2020-06-23T07:20:08.856Z  	Data 3
+2020-06-23T07:20:08.869Z  	Data Saved on retry 3
+2020-06-23T07:20:08.869Z  	Data 2
+2020-06-23T07:20:08.872Z  	Data Saved on retry 2
+2020-06-23T07:20:08.872Z  	Data 2
+2020-06-23T07:20:08.884Z  	Data Saved on retry 2
+2020-06-23T07:20:08.884Z  	Data 4
+2020-06-23T07:20:08.886Z  	Data Saved on retry 4
+2020-06-23T07:20:08.887Z  	Data Saved on retry 4
+2020-06-23T07:20:09.116Z  	Mqtt broker connected
+2020-06-23T07:20:29.404Z  	SIGINT signal received.
+2020-06-23T07:20:29.414Z  	Mongoose connection disconnected
+2020-06-23T07:20:32.837Z  	Database has been connected
+2020-06-23T07:20:32.843Z  	Listening for messages
+2020-06-23T07:20:32.844Z  	Data 1
+2020-06-23T07:20:32.858Z  	Listening for messages
+2020-06-23T07:20:32.858Z  	Data 3
+2020-06-23T07:20:32.870Z  	Data Saved on retry 3
+2020-06-23T07:20:32.871Z  	Data 2
+2020-06-23T07:20:32.873Z  	Data Saved on retry 2
+2020-06-23T07:20:32.873Z  	Data 2
+2020-06-23T07:20:32.885Z  	Data Saved on retry 2
+2020-06-23T07:20:32.885Z  	Data 4
+2020-06-23T07:20:32.892Z  	Data Saved on retry 4
+2020-06-23T07:20:32.892Z  	Data Saved on retry 4
+2020-06-23T07:20:33.110Z  	Mqtt broker connected
+2020-06-23T07:21:22.778Z  	Listening for messages
+2020-06-23T07:22:12.778Z  	Listening for messages
+2020-06-23T07:23:02.777Z  	Listening for messages
+2020-06-23T07:23:52.779Z  	Listening for messages
+2020-06-23T07:24:42.778Z  	Listening for messages
+2020-06-23T07:25:32.779Z  	Listening for messages
+2020-06-23T07:26:22.780Z  	Listening for messages
+2020-06-23T07:27:12.781Z  	Listening for messages
+2020-06-23T07:28:02.781Z  	Listening for messages
+2020-06-23T07:28:52.781Z  	Listening for messages
+2020-06-23T07:29:42.782Z  	Listening for messages
+2020-06-23T07:30:32.782Z  	Listening for messages
+2020-06-23T07:31:22.782Z  	Listening for messages
+2020-06-23T07:32:12.783Z  	Listening for messages
+2020-06-23T07:33:02.784Z  	Listening for messages
+2020-06-23T07:33:25.062Z  	SIGINT signal received.
+2020-06-23T07:33:25.069Z  	Mongoose connection disconnected
+2020-06-23T07:33:29.028Z  	Database has been connected
+2020-06-23T07:33:29.036Z  	Listening for messages
+2020-06-23T07:33:29.036Z  	Data 1
+2020-06-23T07:33:29.050Z  	Listening for messages
+2020-06-23T07:33:29.050Z  	Data 3
+2020-06-23T07:33:29.060Z  	Data Saved on retry 3
+2020-06-23T07:33:29.060Z  	Data 2
+2020-06-23T07:33:29.063Z  	Data Saved on retry 2
+2020-06-23T07:33:29.063Z  	Data 2
+2020-06-23T07:33:29.071Z  	Data Saved on retry 2
+2020-06-23T07:33:29.071Z  	Data 4
+2020-06-23T07:33:29.073Z  	Data Saved on retry 4
+2020-06-23T07:33:29.074Z  	Data Saved on retry 4
+2020-06-23T07:33:29.306Z  	Mqtt broker connected
+2020-06-23T07:34:18.970Z  	Listening for messages
+2020-06-23T07:35:08.971Z  	Listening for messages
+2020-06-23T07:35:50.068Z  	SIGINT signal received.
+2020-06-23T07:35:50.080Z  	Mongoose connection disconnected
+2020-06-23T07:35:53.496Z  	Database has been connected
+2020-06-23T07:35:53.502Z  	Listening for messages
+2020-06-23T07:35:53.502Z  	Data 1
+2020-06-23T07:35:53.523Z  	Listening for messages
+2020-06-23T07:35:53.523Z  	Data 3
+2020-06-23T07:35:53.535Z  	Data Saved on retry 3
+2020-06-23T07:35:53.536Z  	Data 2
+2020-06-23T07:35:53.538Z  	Data Saved on retry 2
+2020-06-23T07:35:53.538Z  	Data 2
+2020-06-23T07:35:53.549Z  	Data Saved on retry 2
+2020-06-23T07:35:53.549Z  	Data 4
+2020-06-23T07:35:53.551Z  	Data Saved on retry 4
+2020-06-23T07:35:53.552Z  	Data Saved on retry 4
+2020-06-23T07:35:53.838Z  	Mqtt broker connected
+2020-06-23T07:36:03.629Z  	SIGINT signal received.
+2020-06-23T07:36:03.634Z  	Mongoose connection disconnected
+2020-06-23T07:36:08.509Z  	Database has been connected
+2020-06-23T07:36:08.515Z  	Listening for messages
+2020-06-23T07:36:08.515Z  	Data 1
+2020-06-23T07:36:08.529Z  	Listening for messages
+2020-06-23T07:36:08.529Z  	Data 3
+2020-06-23T07:36:08.539Z  	Data Saved on retry 3
+2020-06-23T07:36:08.539Z  	Data 2
+2020-06-23T07:36:08.541Z  	Data Saved on retry 2
+2020-06-23T07:36:08.541Z  	Data 2
+2020-06-23T07:36:08.549Z  	Data Saved on retry 2
+2020-06-23T07:36:08.549Z  	Data 4
+2020-06-23T07:36:08.551Z  	Data Saved on retry 4
+2020-06-23T07:36:08.551Z  	Data Saved on retry 4
+2020-06-23T07:36:08.769Z  	Mqtt broker connected
+2020-06-23T07:36:30.785Z  	SIGINT signal received.
+2020-06-23T07:36:30.796Z  	Mongoose connection disconnected
+2020-06-23T07:36:34.423Z  	Database has been connected
+2020-06-23T07:36:34.433Z  	Listening for messages
+2020-06-23T07:36:34.434Z  	Data 1
+2020-06-23T07:36:34.448Z  	Listening for messages
+2020-06-23T07:36:34.458Z  	Data Saved on retry 1
+2020-06-23T07:36:34.459Z  	Data 2
+2020-06-23T07:36:34.461Z  	Data Saved on retry 2
+2020-06-23T07:36:34.461Z  	Data 4
+2020-06-23T07:36:34.463Z  	Data Saved on retry 4
+2020-06-23T07:36:34.709Z  	Mqtt broker connected
+2020-06-23T07:36:52.436Z  	SIGINT signal received.
+2020-06-23T07:36:56.362Z  	Database has been connected
+2020-06-23T07:36:56.368Z  	Listening for messages
+2020-06-23T07:36:56.369Z  	Data 1
+2020-06-23T07:36:56.383Z  	Listening for messages
+2020-06-23T07:36:56.389Z  	Data Saved on retry 1
+2020-06-23T07:36:56.389Z  	Data 2
+2020-06-23T07:36:56.391Z  	Data Saved on retry 2
+2020-06-23T07:36:56.391Z  	Data 4
+2020-06-23T07:36:56.393Z  	Data Saved on retry 4
+2020-06-23T07:36:56.655Z  	Mqtt broker connected
+2020-06-23T07:37:46.302Z  	Listening for messages
+2020-06-23T07:38:36.302Z  	Listening for messages
+2020-06-23T07:39:26.303Z  	Listening for messages
+2020-06-23T07:40:16.304Z  	Listening for messages
+2020-06-23T07:41:06.305Z  	Listening for messages
+2020-06-23T07:41:56.305Z  	Listening for messages
+2020-06-23T07:42:15.127Z  	SIGINT signal received.
+2020-06-23T07:42:19.079Z  	Database has been connected
+2020-06-23T07:42:19.085Z  	Listening for messages
+2020-06-23T07:42:19.085Z  	Data 1
+2020-06-23T07:42:19.099Z  	Listening for messages
+2020-06-23T07:42:19.102Z  	Listening for messages
+2020-06-23T07:42:19.102Z  	Data 1
+2020-06-23T07:42:19.110Z  	Data Saved on retry 1
+2020-06-23T07:42:19.110Z  	Data 2
+2020-06-23T07:42:19.113Z  	Data Saved on retry 2
+2020-06-23T07:42:19.113Z  	Data 2
+2020-06-23T07:42:19.115Z  	Data Saved on retry 2
+2020-06-23T07:42:19.115Z  	Data 4
+2020-06-23T07:42:19.117Z  	Listening for messages
+2020-06-23T07:42:19.119Z  	Data Saved on retry 4
+2020-06-23T07:42:19.119Z  	Data 3
+2020-06-23T07:42:19.121Z  	Data Saved on retry 3
+2020-06-23T07:42:19.121Z  	Data Saved on retry 3
+2020-06-23T07:42:19.121Z  	Data 4
+2020-06-23T07:42:19.125Z  	Data Saved on retry 4
+2020-06-23T07:42:19.125Z  	Data 6
+2020-06-23T07:42:19.129Z  	Data Saved on retry 6
+2020-06-23T07:42:19.343Z  	Mqtt broker connected
+2020-06-23T07:42:48.579Z  	SIGINT signal received.
+2020-06-23T07:42:48.590Z  	Mongoose connection disconnected
+2020-06-23T07:42:53.182Z  	Database has been connected
+2020-06-23T07:42:53.188Z  	Listening for messages
+2020-06-23T07:42:53.188Z  	Data 1
+2020-06-23T07:42:53.202Z  	Listening for messages
+2020-06-23T07:42:53.207Z  	Listening for messages
+2020-06-23T07:42:53.207Z  	Data 1
+2020-06-23T07:42:53.214Z  	Data Saved on retry 1
+2020-06-23T07:42:53.214Z  	Data 2
+2020-06-23T07:42:53.217Z  	Data Saved on retry 2
+2020-06-23T07:42:53.217Z  	Data 2
+2020-06-23T07:42:53.219Z  	Data Saved on retry 2
+2020-06-23T07:42:53.219Z  	Data 4
+2020-06-23T07:42:53.222Z  	Listening for messages
+2020-06-23T07:42:53.225Z  	Data Saved on retry 4
+2020-06-23T07:42:53.225Z  	Data 3
+2020-06-23T07:42:53.227Z  	Data Saved on retry 3
+2020-06-23T07:42:53.228Z  	Data Saved on retry 3
+2020-06-23T07:42:53.228Z  	Data 4
+2020-06-23T07:42:53.230Z  	Data Saved on retry 4
+2020-06-23T07:42:53.230Z  	Data 6
+2020-06-23T07:42:53.231Z  	Data Saved on retry 6
+2020-06-23T07:42:53.566Z  	Mqtt broker connected
+2020-06-23T07:43:20.710Z  	SIGINT signal received.
+2020-06-23T07:43:20.722Z  	Mongoose connection disconnected
+2020-06-23T07:43:28.709Z  	Database has been connected
+2020-06-23T07:43:28.714Z  	Listening for messages
+2020-06-23T07:43:28.715Z  	Data 1
+2020-06-23T07:43:28.728Z  	Listening for messages
+2020-06-23T07:43:28.732Z  	Listening for messages
+2020-06-23T07:43:28.732Z  	Data 1
+2020-06-23T07:43:28.736Z  	Data Saved on retry 1
+2020-06-23T07:43:28.736Z  	Data 2
+2020-06-23T07:43:28.739Z  	Data Saved on retry 2
+2020-06-23T07:43:28.739Z  	Data 2
+2020-06-23T07:43:28.742Z  	Data Saved on retry 2
+2020-06-23T07:43:28.742Z  	Data 4
+2020-06-23T07:43:28.744Z  	Listening for messages
+2020-06-23T07:43:28.745Z  	Data Saved on retry 4
+2020-06-23T07:43:28.745Z  	Data 3
+2020-06-23T07:43:28.747Z  	Data Saved on retry 3
+2020-06-23T07:43:28.748Z  	Data Saved on retry 3
+2020-06-23T07:43:28.748Z  	Data 4
+2020-06-23T07:43:28.750Z  	Data Saved on retry 4
+2020-06-23T07:43:28.750Z  	Data 6
+2020-06-23T07:43:28.752Z  	Data Saved on retry 6
+2020-06-23T07:43:28.994Z  	Mqtt broker connected
+2020-06-23T07:44:18.649Z  	Listening for messages
+2020-06-23T07:45:08.649Z  	Listening for messages
+2020-06-23T07:45:58.648Z  	Listening for messages
+2020-06-23T07:46:48.650Z  	Listening for messages
+2020-06-23T07:47:38.650Z  	Listening for messages
+2020-06-23T07:48:28.649Z  	Listening for messages
+2020-06-23T07:49:07.082Z  	SIGINT signal received.
+2020-06-23T07:49:07.093Z  	Mongoose connection disconnected
+2020-06-23T07:49:10.804Z  	Database has been connected
+2020-06-23T07:49:10.809Z  	Listening for messages
+2020-06-23T07:49:10.810Z  	Data 1
+2020-06-23T07:49:10.825Z  	Listening for messages
+2020-06-23T07:49:10.829Z  	Listening for messages
+2020-06-23T07:49:10.829Z  	Data 1
+2020-06-23T07:49:10.838Z  	Data Saved on retry 1
+2020-06-23T07:49:10.838Z  	Data 2
+2020-06-23T07:49:10.841Z  	Data Saved on retry 2
+2020-06-23T07:49:10.841Z  	Data 2
+2020-06-23T07:49:10.843Z  	Data Saved on retry 2
+2020-06-23T07:49:10.844Z  	Data 4
+2020-06-23T07:49:10.846Z  	Listening for messages
+2020-06-23T07:49:10.851Z  	Data Saved on retry 4
+2020-06-23T07:49:10.851Z  	Data 3
+2020-06-23T07:49:10.853Z  	Data Saved on retry 3
+2020-06-23T07:49:10.854Z  	Data Saved on retry 3
+2020-06-23T07:49:10.854Z  	Data 4
+2020-06-23T07:49:10.855Z  	Data Saved on retry 4
+2020-06-23T07:49:10.855Z  	Data 6
+2020-06-23T07:49:10.858Z  	Data Saved on retry 6
+2020-06-23T07:49:11.080Z  	Mqtt broker connected
+2020-06-23T07:49:45.461Z  	SIGINT signal received.
+2020-06-23T07:49:45.467Z  	Mongoose connection disconnected
+2020-06-23T07:49:49.087Z  	Database has been connected
+2020-06-23T07:49:49.093Z  	Listening for messages
+2020-06-23T07:49:49.093Z  	Data 1
+2020-06-23T07:49:49.107Z  	Listening for messages
+2020-06-23T07:49:49.111Z  	Listening for messages
+2020-06-23T07:49:49.111Z  	Data 1
+2020-06-23T07:49:49.118Z  	Data Saved on retry 1
+2020-06-23T07:49:49.118Z  	Data 2
+2020-06-23T07:49:49.121Z  	Data Saved on retry 2
+2020-06-23T07:49:49.121Z  	Data 2
+2020-06-23T07:49:49.124Z  	Data Saved on retry 2
+2020-06-23T07:49:49.124Z  	Data 4
+2020-06-23T07:49:49.126Z  	Listening for messages
+2020-06-23T07:49:49.128Z  	Data Saved on retry 4
+2020-06-23T07:49:49.128Z  	Data 3
+2020-06-23T07:49:49.130Z  	Data Saved on retry 3
+2020-06-23T07:49:49.131Z  	Data Saved on retry 3
+2020-06-23T07:49:49.131Z  	Data 4
+2020-06-23T07:49:49.132Z  	Data Saved on retry 4
+2020-06-23T07:49:49.132Z  	Data 6
+2020-06-23T07:49:49.144Z  	Data Saved on retry 6
+2020-06-23T07:49:49.390Z  	Mqtt broker connected
+2020-06-23T07:50:18.844Z  	SIGINT signal received.
+2020-06-23T07:50:18.853Z  	Mongoose connection disconnected
+2020-06-23T07:50:22.552Z  	Database has been connected
+2020-06-23T07:50:22.557Z  	Listening for messages
+2020-06-23T07:50:22.557Z  	Data 1
+2020-06-23T07:50:22.572Z  	Listening for messages
+2020-06-23T07:50:22.578Z  	Listening for messages
+2020-06-23T07:50:22.578Z  	Data 1
+2020-06-23T07:50:22.586Z  	Data Saved on retry 1
+2020-06-23T07:50:22.586Z  	Data 2
+2020-06-23T07:50:22.589Z  	Data Saved on retry 2
+2020-06-23T07:50:22.589Z  	Data 2
+2020-06-23T07:50:22.591Z  	Data Saved on retry 2
+2020-06-23T07:50:22.591Z  	Data 4
+2020-06-23T07:50:22.594Z  	Listening for messages
+2020-06-23T07:50:22.595Z  	Data Saved on retry 4
+2020-06-23T07:50:22.595Z  	Data 3
+2020-06-23T07:50:22.597Z  	Data Saved on retry 3
+2020-06-23T07:50:22.597Z  	Data Saved on retry 3
+2020-06-23T07:50:22.598Z  	Data 4
+2020-06-23T07:50:22.599Z  	Data Saved on retry 4
+2020-06-23T07:50:22.599Z  	Data 6
+2020-06-23T07:50:22.601Z  	Data Saved on retry 6
+2020-06-23T07:50:22.839Z  	Mqtt broker connected
+2020-06-23T07:50:47.409Z  	SIGINT signal received.
+2020-06-23T07:50:47.415Z  	Mongoose connection disconnected
+2020-06-23T07:50:50.720Z  	Database has been connected
+2020-06-23T07:50:50.726Z  	Listening for messages
+2020-06-23T07:50:50.726Z  	Data 1
+2020-06-23T07:50:50.740Z  	Listening for messages
+2020-06-23T07:50:50.745Z  	Listening for messages
+2020-06-23T07:50:50.746Z  	Data 1
+2020-06-23T07:50:50.752Z  	Data Saved on retry 1
+2020-06-23T07:50:50.752Z  	Data 2
+2020-06-23T07:50:50.755Z  	Data Saved on retry 2
+2020-06-23T07:50:50.755Z  	Data 2
+2020-06-23T07:50:50.757Z  	Data Saved on retry 2
+2020-06-23T07:50:50.757Z  	Data 4
+2020-06-23T07:50:50.760Z  	Listening for messages
+2020-06-23T07:50:50.761Z  	Data Saved on retry 4
+2020-06-23T07:50:50.761Z  	Data 3
+2020-06-23T07:50:50.763Z  	Data Saved on retry 3
+2020-06-23T07:50:50.764Z  	Data Saved on retry 3
+2020-06-23T07:50:50.764Z  	Data 4
+2020-06-23T07:50:50.766Z  	Data Saved on retry 4
+2020-06-23T07:50:50.766Z  	Data 6
+2020-06-23T07:50:50.770Z  	Data Saved on retry 6
+2020-06-23T07:50:50.986Z  	Mqtt broker connected
+2020-06-23T07:51:40.660Z  	Listening for messages
+2020-06-23T07:53:06.149Z  	SIGINT signal received.
+2020-06-23T07:53:06.160Z  	Mongoose connection disconnected
+2020-06-23T07:53:18.200Z  	Database has been connected
+2020-06-23T07:53:18.206Z  	Listening for messages
+2020-06-23T07:53:18.206Z  	Data 1
+2020-06-23T07:53:18.221Z  	Listening for messages
+2020-06-23T07:53:18.224Z  	Listening for messages
+2020-06-23T07:53:18.225Z  	Data 1
+2020-06-23T07:53:18.231Z  	Data Saved on retry 1
+2020-06-23T07:53:18.231Z  	Data 2
+2020-06-23T07:53:18.234Z  	Data Saved on retry 2
+2020-06-23T07:53:18.234Z  	Data 2
+2020-06-23T07:53:18.237Z  	Data Saved on retry 2
+2020-06-23T07:53:18.237Z  	Data 4
+2020-06-23T07:53:18.240Z  	Listening for messages
+2020-06-23T07:53:18.241Z  	Data Saved on retry 4
+2020-06-23T07:53:18.241Z  	Data 3
+2020-06-23T07:53:18.243Z  	Data Saved on retry 3
+2020-06-23T07:53:18.243Z  	Data Saved on retry 3
+2020-06-23T07:53:18.244Z  	Data 4
+2020-06-23T07:53:18.245Z  	Data Saved on retry 4
+2020-06-23T07:53:18.245Z  	Data 6
+2020-06-23T07:53:18.255Z  	Data Saved on retry 6
+2020-06-23T07:53:18.503Z  	Mqtt broker connected
+2020-06-23T07:54:08.142Z  	Listening for messages
+2020-06-23T07:58:16.739Z  	SIGINT signal received.
+2020-06-23T07:58:20.832Z  	Database has been connected
+2020-06-23T07:58:20.842Z  	Listening for messages
+2020-06-23T07:58:20.842Z  	Data 1
+2020-06-23T07:58:20.856Z  	Listening for messages
+2020-06-23T07:58:20.860Z  	Listening for messages
+2020-06-23T07:58:20.861Z  	Data 1
+2020-06-23T07:58:20.867Z  	Data Saved on retry 1
+2020-06-23T07:58:20.867Z  	Data 2
+2020-06-23T07:58:20.870Z  	Data Saved on retry 2
+2020-06-23T07:58:20.870Z  	Data 2
+2020-06-23T07:58:20.872Z  	Data Saved on retry 2
+2020-06-23T07:58:20.872Z  	Data 4
+2020-06-23T07:58:20.874Z  	Listening for messages
+2020-06-23T07:58:20.875Z  	Data Saved on retry 4
+2020-06-23T07:58:20.876Z  	Data 3
+2020-06-23T07:58:20.878Z  	Data Saved on retry 3
+2020-06-23T07:58:20.878Z  	Data Saved on retry 3
+2020-06-23T07:58:20.878Z  	Data 4
+2020-06-23T07:58:20.880Z  	Data Saved on retry 4
+2020-06-23T07:58:20.880Z  	Data 6
+2020-06-23T07:58:20.884Z  	Data Saved on retry 6
+2020-06-23T07:58:21.136Z  	Mqtt broker connected
+2020-06-23T07:58:44.014Z  	SIGINT signal received.
+2020-06-23T07:58:44.020Z  	Mongoose connection disconnected
+2020-06-23T07:58:47.807Z  	Database has been connected
+2020-06-23T07:58:47.813Z  	Listening for messages
+2020-06-23T07:58:47.813Z  	Data 1
+2020-06-23T07:58:47.827Z  	Listening for messages
+2020-06-23T07:58:47.830Z  	Listening for messages
+2020-06-23T07:58:47.831Z  	Data 1
+2020-06-23T07:58:47.835Z  	Data Saved on retry 1
+2020-06-23T07:58:47.835Z  	Data 2
+2020-06-23T07:58:47.838Z  	Data Saved on retry 2
+2020-06-23T07:58:47.838Z  	Data 2
+2020-06-23T07:58:47.840Z  	Data Saved on retry 2
+2020-06-23T07:58:47.840Z  	Data 4
+2020-06-23T07:58:47.843Z  	Listening for messages
+2020-06-23T07:58:47.845Z  	Data Saved on retry 4
+2020-06-23T07:58:47.845Z  	Data 3
+2020-06-23T07:58:47.847Z  	Data Saved on retry 3
+2020-06-23T07:58:47.848Z  	Data Saved on retry 3
+2020-06-23T07:58:47.848Z  	Data 4
+2020-06-23T07:58:47.850Z  	Data Saved on retry 4
+2020-06-23T07:58:47.850Z  	Data 6
+2020-06-23T07:58:47.851Z  	Data Saved on retry 6
+2020-06-23T07:58:48.081Z  	Mqtt broker connected
+2020-06-23T07:59:05.811Z  	SIGINT signal received.
+2020-06-23T07:59:05.823Z  	Mongoose connection disconnected
+2020-06-23T08:02:01.937Z  	Database has been connected
+2020-06-23T08:02:01.944Z  	Listening for messages
+2020-06-23T08:02:01.945Z  	Data 1
+2020-06-23T08:02:01.958Z  	Listening for messages
+2020-06-23T08:02:01.962Z  	Listening for messages
+2020-06-23T08:02:01.962Z  	Data 1
+2020-06-23T08:02:01.966Z  	Data Saved on retry 1
+2020-06-23T08:02:01.966Z  	Data 2
+2020-06-23T08:02:01.968Z  	Data Saved on retry 2
+2020-06-23T08:02:01.969Z  	Data 2
+2020-06-23T08:02:01.971Z  	Data Saved on retry 2
+2020-06-23T08:02:01.971Z  	Data 4
+2020-06-23T08:02:01.973Z  	Listening for messages
+2020-06-23T08:02:01.974Z  	Data Saved on retry 4
+2020-06-23T08:02:01.974Z  	Data 3
+2020-06-23T08:02:01.976Z  	Data Saved on retry 3
+2020-06-23T08:02:01.977Z  	Data Saved on retry 3
+2020-06-23T08:02:01.977Z  	Data 4
+2020-06-23T08:02:01.979Z  	Data Saved on retry 4
+2020-06-23T08:02:01.979Z  	Data 6
+2020-06-23T08:02:01.981Z  	Data Saved on retry 6
+2020-06-23T08:02:02.212Z  	Mqtt broker connected
